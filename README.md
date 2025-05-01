@@ -71,3 +71,19 @@ Simulations were conducted at **0.8V supply**:
 
 ---
 
+## ✍️ Authors 
+
+**Yara Khattab**  
+
+  📧 [yarakhattab16@gmail.com](mailto:yarakhattab16@gmail.com) 
+
+  
+  🔗 [GitHub: @yarakhattab](https://github.com/yarakhattab)
+
+**Shahd Shreteh**  
+  🎓 Computer Engineering Student – Birzeit University  
+  
+
+**Ahmad Elyyan**  
+  🎓 Computer Engineering Student – Birzeit University  
+
